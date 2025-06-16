@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "namaMateri": "Materi Kebijakan",
+    "judulMateri": "Sambutan Kepala LAN, Kebijakan Pengembangan Kompetensi ASN, Kebijakan Pelatihan Dasar CPNS",
+    "subMateri": [
+      {
+        "id": 1,
+        "namaSubmateri": "Sambutan Kepala LAN RI",
+        "deskripsi": "Sambutan Kepala LAN (Deskripsi: Sambutan Kepala Lembaga Administrasi Negara Dr. Adi Suryanto, M.Si)",
+        "persyaratan": null,
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 57,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "materi",
+            "url": "https://www.youtube.com/embed/2EjpcyCN6KI",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "namaSubmateri": "Kebijakan Pengembangan Kompetensi ASN",
+        "deskripsi": "Penjelasan Kebijakan Bangkom ASN (Deskripsi: Kebijakan Pengembangan Kompetensi ASN \noleh Dr. Muhammad Taufiq, DEA., Deputi Kebijakan Pengembangan Kompetensi ASN LAN RI)",
+        "persyaratan": null,
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 2,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "materi",
+            "url": "https://www.youtube.com/embed/YWXbhvHnsCs",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "namaSubmateri": "Kebijakan Penyelenggaraan Latsar",
+        "deskripsi": "Penjelasan Kebijakan Penyelenggaraan Latsar (Deskripsi: Kebijakan Penyelenggaraan Pelatihan Dasar CPNS oleh Erna Irawati, S.Sos, M.Pol., Adm. Kepala Pusat Pembinaan Program dan Kebijakan Pengembangan Kompetensi ASN LAN RI)",
+        "persyaratan": null,
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 58,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "materi",
+            "url": "http://www.youtube.com/embed/N_Sje_w_8n0",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "namaMateri": "Agenda I",
+    "judulMateri": "Sikap Perilaku Bela Negara",
+    "subMateri": [
+      {
+        "id": 3,
+        "namaSubmateri": "Wawasan Kebangsaan dan Nilai-Nilai Bela Negara",
+        "deskripsi": "Modul pembelajaran Wawasan Kebangsaan dan Nilai-Nilai Bela Negara disusun untuk meningkatkan pengetahuan dan wawasan peserta tentang landasan kehidupan berbangsa dan bernegara; nilai-nilai dasar bela negara; penghormatan terhadap lambang-lambang negara dan ketaatan kepada peraturan perundang-undangan; dan pembinaan kerukunan, menjaga persatuan dan kesatuan bangsa. Materi ini disajikan untuk 6 Jam Pelatihan (JP), dan dalam proses pembelajarannya disampaikan dengan menggunakan metode pembelajaran orang dewasa.",
+        "persyaratan": "Peserta Pelatihan diharapkan mempelajari semua materi tersebut dengan seksama dan sungguh-sungguh, sehingga akan memiliki pemahaman yang komprehensif tentang wawasan kebangsaan dan nilai-nilai bela negara, sebagai modal awal untuk mempelajari modul-modul selanjutnya.",
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 3,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/7dQCizL0pg4",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 7,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1a-vrttm6vNWbSp6QJQ_fpWhwiyl6awos/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 8,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1xsEbjm32zB4Iwb4NuzfcSkYkrFFGTON8/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 38,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/FBvcPFP58IA",
+            "file": null,
+            "poin": 0,
+            "uuid": null
+          },
+          {
+            "id": 39,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/IofeMiXKC74",
+            "file": null,
+            "poin": 0,
+            "uuid": null
+          },
+          {
+            "id": 40,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/MEL0MgmrxD4",
+            "file": null,
+            "poin": 0,
+            "uuid": null
+          },
+          {
+            "id": 41,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/_ts-nq64Cjg",
+            "file": null,
+            "poin": 0,
+            "uuid": null
+          },
+          {
+            "id": 42,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/zPoNbMFI7ew",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "namaSubmateri": "Analisis Isu Kontemporer",
+        "deskripsi": "Mata Pelatihan ini membekali peserta dengan kemampuan memahami konsepsi perubahan dan perubahan lingkungan strategis melalui isu-isu strategis kontemporer sebagai wawasan strategis PNS dengan menyadari pentingnya modal insani, dengan menunjukan kemampuan berpikir kritis dalam menghadapi perubahan lingkungan strategis.",
+        "persyaratan": "Keterkaitan ketiga materi agenda bela negara ini merupakan kebijakan yang telah diatur dalam penyelenggaraan pelatihan dasar calon PNS pada kurikulum pembentukan karakter PNS Agenda pembelajaran bela negara yang dirancang dan disampaikan secara terintegrasi. Oleh karena itu, peserta diharapkan mempelajari ketiga materi sebagai satu kesatuann pembelajaran agenda bela negara untuk mencapai kompetensi yang diharapkan yaitu untuk menunjukan sikap perilaku bela negara.",
+        "hasilBelajar": "Peserta diharapkan mampu memahami konsepsi perubahan dan perubahan lingkungan strategis melalui isu-isu strategis kontemporer sebagai wawasan strategis PNS dengan menyadari pentingnya modal insani, dengan menunjukan kemampuan berpikir kritis dalam menghadapi perubahan lingkungan strategis dalam menjalankan tugas jabatan sebagai PNS profesional pelayan masyarakat.",
+        "bahan": [
+          {
+            "id": 4,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/NDpQC8idnAI",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 5,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1S-d8UOMk5a6QS3KjsLRoVb0wuE1LPCjI/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 6,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1OvYvVlnVdd913J2YIQQ_1AFQcV7EEQ-t/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 43,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/_O7e87YRZdk",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 65,
+            "namaBahan": "Lihat Video ",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/UL2BB_HVxd4?si=ZSbnp5WQMDj6_HdP",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "namaSubmateri": "Kesiapsiagaan Bela Negara",
+        "deskripsi": "Mata pelatihan ini membekali peserta untuk dapat memahami kerangka bela negara dalam Latsar CPNS dan dasar- dasar kesiapsiagaan bela negara, menyusun rencana aksi bela negara dan melakukan kegiatan kesiapsiagaan bela negara sebagai kemampuan awal bela negara dengan menunjukkan sikap perilaku bela negara melalui aktivitas di luar kelas melalui kegiatan praktik peraturan baris berbaris, tata upacara sipil, dan keprotokolan, bermain peran sebagai badan pengumpul keterangan, kemudian diakhiri dengan melakukan kegiatan ketangkasan fisik dan penguatan mental dengan penekanan pada aspek kedisiplinan, kepemimpinan, kerjasama, dan prakarsa menggunakan metode-metode pembelajaran di alam terbuka dalam rangka membangun komitmen dan loyalitas terhadap negara dalam menjalankan tugas sebagai PNS profesional pelayan masyarakat.",
+        "persyaratan": "Kesiapsiagaan bela negara bagi CPNS bukanlah kesiapsiagaan untuk melaksanaan perjuangan fisik seperti para pejuang terdahulu, tetapi bagaimana melanjutkan perjuangan mereka dengan pranata nilai yang sama demi kejayaan bangsa dan negara Indonesia.",
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 9,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/1MuNJTuN5P0",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 10,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/18Z0sfz90RSsxK8oOywlypS4CTOPIrmeG/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 11,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1teKt_2ynYlVpnAsfIW-S7R6jyGYAXYQp/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 44,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/3xQJhW2RN0g",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "namaMateri": "Agenda II",
+    "judulMateri": "Nilai-nilai Dasar PNS",
+    "subMateri": [
+      {
+        "id": 6,
+        "namaSubmateri": "Akuntabilitas",
+        "deskripsi": "Dalam Mata Diklat Akuntabilitas PNS, secara substansi pembahasan berfokus pada fasilitas pembentukan nilai-nilai dasar akuntabilitas. Peserta diklat akan dibekali dengan pembelajaran mengenai nilai-nilai dasar dan konsep akuntabilitas publik, konflik kepentingan dalam masyarakat, netralitas PNS, keadilan dalam pelayanan publik, transparan dalam memberikan informasi dan data yang dibutuhkan oleh publik, serta sikap dan perilaku yang konsisten. Mata diklat ini disajikan dengan proses experiential learning, yang memberikan penekanan-penekanan pada proses internalisasi nilai-nilai dasar, kombinasi metode ceramah interaktif, diskusi, studi kasus, simulasi, film pendek, studi lapangan dan demonstrasi. Melalui mata diklat ini, peserta akan dinilai kemampuannya dalam mengaktualisasikan nilai-nilai dasar akuntabilitas guna pelaksanaan tugas jabatannya.",
+        "persyaratan": null,
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 12,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/AM5XzoT1nQg",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 13,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1KG3_9QQKS_Ok83h-QACFdno6zmk4HAZ-/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 14,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1VixOG1D_vnboTGHyEhRXtoKeHRHRWWZH/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 45,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/43Xww4N1IUM",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "namaSubmateri": "Nasionalisme",
+        "deskripsi": "Nasionalisme sangat penting dimiliki oleh setiap pegawai ASN. Bahkan tidak sekedar wawasan saja tetapi kemampuan mengaktualisasikan nasionalisme dalam menjalankan fungsi dan tugasnya merupakan hal yang lebih penting. Diharapkan dengan nasionalisme yang kuat, maka setiap pegawai ASN memiliki orientasi berpikir mementingkan kepentingan publik, bangsa dan negara. Pegawai ASN akan berpikir tidak lagi sektoral dengan mental block-nya, tetapi akan senantiasa mementingkan kepentingan yang lebih besar yakni bangsa dan negara.",
+        "persyaratan": null,
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 15,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/AzYpywjOWJc",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 16,
+            "namaBahan": "Download Moduk (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1Ax_1StPB6AgQXX9lGI57fyasggHBnMOt/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 17,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/15G0HMPIMRspxWa7zoUKLzPRX4tcNZox4/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 46,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/pn2mHQXEoiw",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "namaSubmateri": "Etika Publik",
+        "deskripsi": "Mata Diklat Etika Publik memfasilitasi pembentukan nilai-nilai dasar etika publik pada peserta Diklat melalui pembelajaran kode etik dan perilaku pejabat publik, bentuk-bentuk kode etik dan implikasinya, aktualisasi kode etik PNS. Mata Diklat ini disajikan berbasis experiencial learning, dengan penekanan pada proses internalisasi nilai-nilai dasar tersebut, melalui kombinasi metode ceramah interaktif, diskusi, studi kasus, simulasi, menonton film pendek, studi lapangan dan demonstrasi. Keberhasilan peserta dinilai dari kemampuannya mengaktualisasikan nilai-nilai dasar etika dalam mengelola pelaksanaan tugas jabatannya.",
+        "persyaratan": null,
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 18,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/a4a4800_T3o",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 19,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/13NoD3GtDhZW8VIKjuWrMPHMENfX1y_mn/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 20,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1AKc350OH1aplr0-WDYJo_TygYUbiybcr/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 47,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/MBR84UyHt5A",
+            "file": null,
+            "poin": 0,
+            "uuid": null
+          },
+          {
+            "id": 48,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/4WJbUBUI6u4",
+            "file": null,
+            "poin": 0,
+            "uuid": null
+          },
+          {
+            "id": 49,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/8SfvVsWm29M",
+            "file": null,
+            "poin": 0,
+            "uuid": null
+          },
+          {
+            "id": 50,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/VEJWe3Pk1Tg",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "namaSubmateri": "Komitmen Mutu",
+        "deskripsi": "Penyelenggaraan pemerintahan yang baik dan bersih (good and clean governance) sudah menjadi keniscayaan di era reformasi saat ini. Berbagai upaya telah dilakukan untuk mewujudkan keniscayaan tersebut, namun dalam implementasinya masih belum sesuai harapan. Hal ini ditandai dengan banyaknya keluhan masyarakat atas buruknya layanan aparatur pemerintahan, misalnya: (1) terkait dengan maraknya kasus korupsi, sebagai cerminan penyelenggaraan pemerintahan yang tidak efisien; (2) banyaknya program pembangunan sarana fisik yang terbengkalai, sebagai cerminan ketidak-efektifan roda pemerintahan; (3) kecenderungan pelaksanaan tugas yang lebih bersifat rule driven dan sebatas menjalankan rutinitas kewajiban, sebagai cerminan tidak adanya kreativitas untuk melahirkan inovasi; serta (4) masih banyaknya keluhan masyarakat karena merasa tidak puas atas mutu layanan aparatur, sebagai cerminan penyelenggaraan layanan yang kurang bermutu.",
+        "persyaratan": null,
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 21,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/sVB7HkGbyWQ",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 22,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1F0GOnM582I16IUsQ63l8YclPcWjoeJdb/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 23,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/13RNlFWHm2XvOqDwwb1s9Z_MIeqMMHCIZ/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 59,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/RUDSyCKlvRg",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "namaSubmateri": "Anti Korupsi",
+        "deskripsi": "Mata diklat ini memfasilitasi pembentukan nilai-nilai dasar anti korupsi pada peserta diklat prajabatan melalui pembelajara nilai-nilai dan aktualisasinya. Mata diklat disajikan berbasiskan Experiential Learning, dengan penekanan pada proses internalisasi nilai-nilai dasar tersebut, melalui multi metode dan media (ceramah interaktif, diskusi menonton film, studi kasus simulasi dan demontrasi). Keberhasilan peserta dinilai dari kemampuan mengaktualisasikan nilai-nilai dasar anti korupsi dalam memimpin, mengelola dan melaksanakan tugas jabatannya.",
+        "persyaratan": null,
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 24,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "voice url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/N6e_l4jckY4",
+            "file": null,
+            "poin": 0,
+            "uuid": null
+          },
+          {
+            "id": 25,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1HKSxEGYWcz_E7-jj1OW9dddBqWtepgVZ/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 26,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/11cTWG91i9I3831UpXn3P33mlcu0NUZBZ/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 60,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/Ltk5YsqPXb4",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 61,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/YrToUb11UWs",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "namaMateri": "Agenda III",
+    "judulMateri": "Kedudukan dan Peran PNS dalam NKRI",
+    "subMateri": [
+      {
+        "id": 11,
+        "namaSubmateri": "Manajemen ASN",
+        "deskripsi": "Modul ini akan membahas tentang konsep dan kebijakan manajemen aparatur sipil negara, dan bagaimana kebijakan tersebut diimplementasikan di instansi pemerintah, dan termasuk di dalamnya adalah hal-hal apa yang harus diperhatikan agar manajemen aparatur sipil Negara dapat mencapai tujuannya yaitu untuk menciptakan profesionalisme aparatur sipil negara.",
+        "persyaratan": "Setelah mengikuti mata Pelatihan ini, peserta diharapkan mampu memahami kedudukan, peran, hak dan kewajiban, dan kode etik ASN, konsep sistem merit dalam pengelolaan ASN, dan pengelolaan ASN.",
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 27,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/-z3ao8QyPe8",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 28,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1NFqNHJvf0x5H1p-YqmYKQRU6n-QgvlZf/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 29,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1wu3v9JHpQmqPCZSH5sA7je-mlQCvIlbn/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 62,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/TvMKu0d3fKQ",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "namaSubmateri": "Pelayanan Publik",
+        "deskripsi": "Mata Pelatihan ini membekali peserta dengan kemampuan untuk memberikan pelayanan publik yang berkualitas melalui konsep dan prinsip pelayanan publik, pola pikir PNS sebagai pelayan publik, dan praktik etiket pelayanan publik.",
+        "persyaratan": null,
+        "hasilBelajar": "Setelah mengikuti pembelajaran ini, peserta diharapkan mampu mengaktualisasikan pelayanan publik yang berkualitas sesuai jabatannya kepada masyarakat/stakeholder yang dilayaninya.",
+        "bahan": [
+          {
+            "id": 30,
+            "namaBahan": "Dengarkan Podcastnya",
+            "jenisBahan": "voice url/link",
+            "kategori": "microlearning",
+            "url": "https://anchor.fm/akuntabilitas/embed/episodes/Konsep-Pelayanan-Publik-el1g2j/a-a3hjobu",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 31,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/146k6KkbTe24gUmgi00CMidsLYEeRSaCf/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 32,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1y_wGS1-0gUTJ8yrc0kVcSBuqb117eY3A/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 64,
+            "namaBahan": "Dengarkan Podcast",
+            "jenisBahan": "voice url/link",
+            "kategori": "microlearning",
+            "url": "https://anchor.fm/akuntabilitas/embed/episodes/Barang-dan-Jasa-Publik-el1h8s",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "namaSubmateri": "Whole of Government",
+        "deskripsi": "Mata Pelatihan ini membekali peserta dengan pengetahuan tentang sistem pengelolaan pemerintahan yang terintegrasi dalam penyelenggaraan pemberian pelayanan melalui pembelajaran konsep whole of government (WoG), penerapan WoG, best practices penerapan WoG dalam pemberian pelayanan yang terintegrasi di berbagai negara, dan implementasi WoG dalam perspektif kebijakan di Indonesia.",
+        "persyaratan": null,
+        "hasilBelajar": "Setelah mengikuti mata Pelatihan ini, peserta diharapkan mampu mengaktualisasikan konsep, penerapan WoG dalam pemberian pelayanan yang terintegrasi, best practices penerapan WoG di berbagai negara, dan implementasi WoG dalam perspektif kebijakan di Indonesia",
+        "bahan": [
+          {
+            "id": 33,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/oq5iP0_fAQQ",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 34,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1txJfkoar_OE8yOX3cX5pGHfhH7r74MBX/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 35,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/13Ar2qkfpvpmOovoEGZKR2NFTFccw2ttf/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          },
+          {
+            "id": 63,
+            "namaBahan": "Lihat Video",
+            "jenisBahan": "video url/link",
+            "kategori": "microlearning",
+            "url": "https://www.youtube.com/embed/dbP82IctXzo",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "namaMateri": "Agenda IV",
+    "judulMateri": "Habituasi",
+    "subMateri": [
+      {
+        "id": 14,
+        "namaSubmateri": "Habituasi",
+        "deskripsi": "Mata Pelatihan aktualisasi membekali peserta tentang konsepsi aktualisasi dan habituasi, tahapan pembelajaran aktualisasi, penyusunan dan penyajian rancangan aktualisasi, melaksanakan aktualisasi, dan penyajian hasil aktualisasi. Mata Pelatihan ini disajikan dengan metode penulisan kertas kerja, dengan pendekatan pembelajaran experiential learning, dan presentasi yang bersifat mandiri. Keberhasilan peserta dinilai dari kemampuan menyusun dan menyajikan rancangan, melaksanakan aktualisasi di tempat kerja, menyusun laporan, dan menyajikan hasil aktualisasi.",
+        "persyaratan": null,
+        "hasilBelajar": null,
+        "bahan": [
+          {
+            "id": 36,
+            "namaBahan": "Download Modul (PDF)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/1kl7fKur5c-HD3RCQnLroWfCvKSdhEdD_/preview",
+            "file": null,
+            "poin": 2,
+            "uuid": null
+          },
+          {
+            "id": 37,
+            "namaBahan": "Download Materi (PPT)",
+            "jenisBahan": "file url/link",
+            "kategori": "materi",
+            "url": "https://drive.google.com/file/d/192PHaB5XRViIZdE2QoP_3KWs0rYi7LbS/preview",
+            "file": null,
+            "poin": 1,
+            "uuid": null
+          }
+        ]
+      }
+    ]
+  }
+]
