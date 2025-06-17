@@ -1,0 +1,16 @@
+[
+    {
+        "id": 489751,
+        "jawaban": "[a,d,c,a,b,b,d,d,d,a,c,b,a,a,c,b,d,b,c,d,b,c,b,a,d,b,c,b,a,c,a,a,a,d,a,a,a,d,d,c,a,b,c,a,c,c,a,c,b,b]",
+        "nip": "199408292025041003",
+        "nilai": 96.0,
+        "percobaan": 1,
+        "tanggal": "2025-06-17T07:38:33.000+00:00",
+        "tanggalSelesai": "2025-06-17T07:44:52.000+00:00",
+        "paket": "2",
+        "status": 1,
+        "waktu": 5059,
+        "alamatIP": "192.168.200.1",
+        "nilaiSebelumnya": null
+    }
+]
